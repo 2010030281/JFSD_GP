@@ -1,5 +1,5 @@
 
-# Amazon - Clone using ReactJs
+# THE SOCCER STORE
 
 **Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
